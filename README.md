@@ -1,7 +1,7 @@
-# Kivy Examples
+# Kivy Examples (robertour.com)
 
-# that doesn't make any sense... 
-# ... can you repeat it again
+that doesn't make any sense... can you repeat it again?
+--------------------------------------------------------
 
 So, I decided to upload the examples that I have created for my blog ([robertour.com](www.robertour.com)). It will take me some time to upload them all because they are all over the place in my old hard drives.
 
